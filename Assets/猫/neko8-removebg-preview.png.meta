@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      neko8-removebg-preview_0: -1949084605477838853
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
