@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      character_kyuuri_0: 2053171161896851407
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

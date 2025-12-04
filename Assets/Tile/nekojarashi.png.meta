@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      nekojarashi_0: -4391243020528001587
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

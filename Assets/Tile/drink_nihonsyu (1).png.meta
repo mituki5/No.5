@@ -185,7 +185,9 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      drink_nihonsyu (1)_0: -1861580015102222121
+      drink_nihonsyu (1)_1: -9155627608875632835
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

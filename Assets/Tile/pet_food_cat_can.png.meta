@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      pet_food_cat_can_0: -889005286463991001
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
